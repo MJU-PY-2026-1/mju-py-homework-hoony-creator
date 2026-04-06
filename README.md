@@ -41,6 +41,7 @@
     
 ### **📁 증빙 자료:**
   * [60231713_변성훈_1차과제_AI 프롬.pdf 첨부 완료]
+  * https://github.com/MJU-PY-2026-1/mju-py-homework-hoony-creator/blob/main/60231713_%EB%B3%80%EC%84%B1%ED%9B%88_1%EC%B0%A8%EA%B3%BC%EC%A0%9Cai%20%ED%94%84%EB%A1%AC.pdf
 
 <br>
 
