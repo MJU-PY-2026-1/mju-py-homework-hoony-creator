@@ -80,8 +80,8 @@ and/or 연산자를 활용하여 특별 칭호 부여 기능도 구현합니다.
     * **해결:** 입력값을 소문자로 통일하거나 ‘예/아니오’를 미리 정한 형식으로 입력받도록 하여, 회고 작성 여부를 True/False처럼 명확하게 판별할 수 있도록 수정하였다.
      
 ### **📁 증빙 자료:**
-  * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)https://github.com/MJU-PY-2026-1/mju-py-homework-hoony-creator/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC2%EC%B0%A8%EA%B3%BC%EC%A0%9C.pdf
-  * [2차과제_실행결과.jpg]
+  * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크) https://github.com/MJU-PY-2026-1/mju-py-homework-hoony-creator/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC2%EC%B0%A8%EA%B3%BC%EC%A0%9C.pdf
+  * [2차과제_실행결과.jpg] https://github.com/MJU-PY-2026-1/mju-py-homework-hoony-creator/blob/main/image.png
 <br>
 
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정
