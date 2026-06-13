@@ -131,6 +131,6 @@ and/or 연산자를 활용하여 특별 칭호 부여 기능도 구현합니다.
      * **해결:** 파이썬 프로그램이 실행되는 위치를 적절한 곳으로 옮기니 권한 문제가 발생하지 않아 파일 작성의 문제가 해결되었다.
      
 ### **📁 증빙 자료:**
-  * [4차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-  * [4차과제_실행결과.jpg]
+  * [4차_AI협업캡처.pdf 첨부 완료] https://github.com/MJU-PY-2026-1/mju-py-homework-hoony-creator/blob/main/ai%ED%98%91%EC%97%854%EC%B0%A8.pdf
+  * [4차과제_실행결과.jpg] https://github.com/MJU-PY-2026-1/mju-py-homework-hoony-creator/blob/main/%EA%B2%B0%EA%B3%BC%ED%99%94%EB%A9%B4%EC%BA%A1%EC%B2%98.png
 <br>
